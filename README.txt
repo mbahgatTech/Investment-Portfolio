@@ -19,7 +19,7 @@ Functionality:
 
 
 Download and Run information:
-    Enter the main directory: mbahgat_a3.
+    Enter the main directory: Investment-Portfolio.
 
     Compile the java files by using the following commands in the same order:
         javac ePortfolio/*.java
