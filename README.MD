@@ -1,7 +1,7 @@
 Investment Portfolio Project
     Authored by Mazen Bahgat
 
-Functionality:
+## Functionality
     With this project an investor can create a new investment portfolio or import their 
     existing portfolio to the program by responding to simple prompts on the screen. This
     program can perform operations on and keep track of 2 types of investments 
@@ -18,7 +18,7 @@ Functionality:
     Investment search based on user-generated criteria (including price range, investment symbol and investment name keywords).
 
 
-Download and Run information:
+## Download and Run information
     Enter the main directory: Investment-Portfolio.
 
     Compile the java files by using the following commands in the same order:
@@ -47,7 +47,7 @@ Download and Run information:
         Typing illegal data will always give you other chances to re-enter data.
         
 
-API Specifications:
+## API Specifications
     This project consists of a main Portfolio class, an Abstract Investment class and 2 derived classes; 
     a Stock class and  Mutual Fund class. Each of the supporting classes only perform operations like buy, sell
     and get the gain on investment for their respective investment. The Portfolio class performs 
